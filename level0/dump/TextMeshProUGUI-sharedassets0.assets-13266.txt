@@ -1,0 +1,146 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2966
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2052
+ 1 string m_Name = ""
+ 0 PPtr<$Material> m_Material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 Color m_Color
+  0 float r = 1
+  0 float g = 1
+  0 float b = 1
+  0 float a = 1
+ 1 UInt8 m_RaycastTarget = 1
+ 0 Vector4 m_RaycastPadding
+  0 float x = 0
+  0 float y = 0
+  0 float z = 0
+  0 float w = 0
+ 1 UInt8 m_Maskable = 1
+ 0 CullStateChangedEvent m_OnCullStateChanged
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    1 Array Array (0 items)
+     0 int size = 0
+ 1 string m_text = ":thumbsup:"
+ 1 UInt8 m_isRightToLeft = 0
+ 0 PPtr<$TMP_FontAsset> m_fontAsset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8814
+ 0 PPtr<$Material> m_sharedMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 11
+ 0 vector m_fontSharedMaterials
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 PPtr<$Material> m_fontMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 vector m_fontMaterials
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 Color32 m_fontColor32
+  0 unsigned int rgba = 4278190080
+ 0 Color m_fontColor
+  0 float r = 0
+  0 float g = 0
+  0 float b = 0
+  0 float a = 1
+ 1 UInt8 m_enableVertexGradient = 0
+ 0 int m_colorMode = 3
+ 0 VertexGradient m_fontColorGradient
+  0 Color topLeft
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 Color topRight
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 Color bottomLeft
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 Color bottomRight
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+ 0 PPtr<$TMP_ColorGradient> m_fontColorGradientPreset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$TMP_SpriteAsset> m_spriteAsset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_tintAllSprites = 0
+ 0 PPtr<$TMP_StyleSheet> m_StyleSheet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 int m_TextStyleHashCode = -1183493901
+ 1 UInt8 m_overrideHtmlColors = 0
+ 0 Color32 m_faceColor
+  0 unsigned int rgba = 4294967295
+ 0 float m_fontSize = 32
+ 0 float m_fontSizeBase = 32
+ 0 int m_fontWeight = 400
+ 1 UInt8 m_enableAutoSizing = 0
+ 0 float m_fontSizeMin = 16
+ 0 float m_fontSizeMax = 64
+ 0 int m_fontStyle = 0
+ 0 int m_HorizontalAlignment = 1
+ 0 int m_VerticalAlignment = 256
+ 0 int m_textAlignment = 65535
+ 0 float m_characterSpacing = 0
+ 0 float m_wordSpacing = 0
+ 0 float m_lineSpacing = 0
+ 0 float m_lineSpacingMax = 0
+ 0 float m_paragraphSpacing = 0
+ 0 float m_charWidthMaxAdj = 0
+ 1 UInt8 m_enableWordWrapping = 1
+ 0 float m_wordWrappingRatios = 0,4
+ 0 int m_overflowMode = 0
+ 0 PPtr<$TMP_Text> m_linkedTextComponent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$TMP_Text> parentLinkedComponent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_enableKerning = 1
+ 1 UInt8 m_enableExtraPadding = 1
+ 1 UInt8 checkPaddingRequired = 0
+ 1 UInt8 m_isRichText = 1
+ 1 UInt8 m_parseCtrlCharacters = 1
+ 1 UInt8 m_isOrthographic = 1
+ 1 UInt8 m_isCullingEnabled = 0
+ 0 int m_horizontalMapping = 0
+ 0 int m_verticalMapping = 0
+ 0 float m_uvLineOffset = 0
+ 0 int m_geometrySortingOrder = 0
+ 1 UInt8 m_IsTextObjectScaleStatic = 0
+ 1 UInt8 m_VertexBufferAutoSizeReduction = 0
+ 1 UInt8 m_useMaxVisibleDescender = 1
+ 0 int m_pageToDisplay = 1
+ 0 Vector4 m_margin
+  0 float x = 0
+  0 float y = 0
+  0 float z = 0
+  0 float w = 0
+ 1 UInt8 m_isUsingLegacyAnimationComponent = 0
+ 1 UInt8 m_isVolumetricText = 0
+ 1 UInt8 m_hasFontAssetChanged = 0
+ 0 PPtr<$Material> m_baseMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 Vector4 m_maskOffset
+  0 float x = 0
+  0 float y = 0
+  0 float z = 0
+  0 float w = 0
