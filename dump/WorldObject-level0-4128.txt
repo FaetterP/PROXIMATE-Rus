@@ -7,6 +7,6 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 2131
  1 string m_Name = ""
- 1 string visorName = "PCB Printer"
+ 1 string visorName = "станок для плат"
  0 float minConfidence = 65,4
  0 float maxConfidence = 73,5

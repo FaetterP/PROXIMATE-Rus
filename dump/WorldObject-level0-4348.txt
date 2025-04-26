@@ -7,6 +7,6 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 2131
  1 string m_Name = ""
- 1 string visorName = "Precision Arm"
+ 1 string visorName = "рука манипулятора"
  0 float minConfidence = 71,4
  0 float maxConfidence = 79,9

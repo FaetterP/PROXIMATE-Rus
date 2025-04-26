@@ -7,6 +7,6 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 2131
  1 string m_Name = ""
- 1 string visorName = "hair dryer"
+ 1 string visorName = "фен"
  0 float minConfidence = 66,7
  0 float maxConfidence = 84,9

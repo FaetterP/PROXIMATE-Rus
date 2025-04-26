@@ -7,6 +7,6 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 2131
  1 string m_Name = ""
- 1 string visorName = "game console"
+ 1 string visorName = "игровая консоль"
  0 float minConfidence = 77,7
  0 float maxConfidence = 93,3
