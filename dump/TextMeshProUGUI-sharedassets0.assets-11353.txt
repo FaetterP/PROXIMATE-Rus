@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "(1) Identified Object - SONA's interpretation of what you're currently seeing.\n\n(2) Compass - tracks which direction you're facing. Use the Home icon to orient yourself.\n\n(3), (4) Proximity - visual and textual representation of how close (1) is.\n\n(5) Confidence - SONA's confidence in the accuracy of (1). Use your best judgement for low scores!"
+ 1 string m_text = "(1) Распознанный объект - так SONA отображает то, что вы сейчас видите.\n\n(2) Компас - отслеживает, в каком направлении вы смотрите. Используйте иконку Дома, чтобы сориентироваться.\n\n(3), (4) Близость - визуальное и текстовое представление того, насколько близко находится объект (1).\n\n(5) Уверенность - уверенность SONA, что этот объект действительно (1). Если значение низкое, то пользуйтесь своим здравомыслием!"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0
