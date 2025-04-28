@@ -7,4 +7,4 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1564
  1 string m_Name = "SubtitleClip(Clone)(Clone)"
- 1 string subtitleText = "GENE M: say tech literacy was optional for the role. Honestly,"
+ 1 string subtitleText = "ДЖИН М: скажем, техническая грамотность была необязательной для"

@@ -7,4 +7,4 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1564
  1 string m_Name = "SubtitleClip"
- 1 string subtitleText = "GENE M: getting turned around too much, hey? Who knows"
+ 1 string subtitleText = "ДЖИН М: посмотреть по сторонам, а? Кто знает,"

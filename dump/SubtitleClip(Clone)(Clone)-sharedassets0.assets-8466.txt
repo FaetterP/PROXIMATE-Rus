@@ -7,4 +7,4 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1564
  1 string m_Name = "SubtitleClip(Clone)(Clone)"
- 1 string subtitleText = "GENE M: software versions, that photo of your cat, your map..."
+ 1 string subtitleText = "ДЖИН М: приложения, эта фотка твоего кота, твоя карта..."
