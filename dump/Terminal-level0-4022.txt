@@ -7,7 +7,7 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1290
  1 string m_Name = ""
- 1 string interactionName = "connect"
+ 1 string interactionName = "подключиться"
  0 vector documents
   1 Array Array (5 items)
    0 int size = 5

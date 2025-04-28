@@ -7,7 +7,7 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1386
  1 string m_Name = ""
- 1 string interactionName = "launch"
+ 1 string interactionName = "запустить"
  0 PPtr<$TimelineManager> subtitlesTimeline
   0 int m_FileID = 0
   0 SInt64 m_PathID = 3878

@@ -7,7 +7,7 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 2053
  1 string m_Name = ""
- 1 string interactionName = "connect"
+ 1 string interactionName = "подключиться"
  0 PPtr<$TimelineManager> timeliner
   0 int m_FileID = 0
   0 SInt64 m_PathID = 3992

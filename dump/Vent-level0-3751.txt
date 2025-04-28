@@ -7,7 +7,7 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1025
  1 string m_Name = ""
- 1 string interactionName = "open"
+ 1 string interactionName = "открыть"
  0 EventReference entrySound
   0 GUID Guid
    0 int Data1 = 556746505

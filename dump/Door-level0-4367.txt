@@ -7,13 +7,13 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1422
  1 string m_Name = ""
- 1 string interactionName = "open"
+ 1 string interactionName = "открыть"
  0 int progressIndexRequirement = 100
  1 string optionalConditionRequirement = ""
  0 PPtr<$ConditionList> conditionList
   0 int m_FileID = 2
   0 SInt64 m_PathID = 8794
- 1 string blockerName = "jammed"
+ 1 string blockerName = "заклинило"
  0 PPtr<$SpriteRenderer> spriteRenderer
   0 int m_FileID = 0
   0 SInt64 m_PathID = 2898

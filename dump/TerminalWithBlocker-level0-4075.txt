@@ -7,7 +7,7 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 1749
  1 string m_Name = ""
- 1 string interactionName = "connect"
+ 1 string interactionName = "подключиться"
  0 vector documents
   1 Array Array (6 items)
    0 int size = 6
@@ -54,5 +54,5 @@
  0 PPtr<$ConditionList> conditionList
   0 int m_FileID = 2
   0 SInt64 m_PathID = 8794
- 1 string blockerName = "insufficient privilege"
+ 1 string blockerName = "недостаточно прав"
  1 UInt8 alreadyConnected = 0
