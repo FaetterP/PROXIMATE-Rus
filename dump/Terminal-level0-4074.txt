@@ -1,0 +1,49 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 677
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1290
+ 1 string m_Name = ""
+ 1 string interactionName = "connect"
+ 0 vector documents
+  1 Array Array (5 items)
+   0 int size = 5
+   [0]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 1517
+   [1]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 544
+   [2]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 1280
+   [3]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 1288
+   [4]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 1283
+ 0 PPtr<$DownloadManager> downloadManager
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4007
+ 0 PPtr<$TimelineAsset> playAfterDownload
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8841
+ 0 PPtr<$GameObject> goalMarker
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 304
+ 0 PPtr<$GameObject> alternativeGoal
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$GoalIcon> goalIcon
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4031
+ 1 UInt8 alreadyConnected = 0

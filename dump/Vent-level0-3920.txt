@@ -1,0 +1,29 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 252
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1025
+ 1 string m_Name = ""
+ 1 string interactionName = "open"
+ 0 EventReference entrySound
+  0 GUID Guid
+   0 int Data1 = 556746505
+   0 int Data2 = 1325792127
+   0 int Data3 = -911828078
+   0 int Data4 = -1004597982
+ 0 PPtr<$Transform> player
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1014
+ 0 Vector3 newPlayerPosition
+  0 float x = -8,63
+  0 float y = 18
+  0 float z = 0
+ 0 float yieldTime1 = 1
+ 0 float yieldTime2 = 3,5
+ 0 PPtr<$CompassManager> compassManager
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3802
+ 1 UInt8 disableCompass = 0

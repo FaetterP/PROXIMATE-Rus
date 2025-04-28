@@ -1,0 +1,25 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 737
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2053
+ 1 string m_Name = ""
+ 1 string interactionName = "connect"
+ 0 PPtr<$TimelineManager> timeliner
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3992
+ 0 PPtr<$TimelineAsset> timelineToPlay
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8850
+ 0 PPtr<$DocumentList> documentList
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8796
+ 0 PPtr<$UploadManager> uploadManager
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3945
+ 0 PPtr<$ConditionList> gameConditions
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8794

@@ -1,0 +1,44 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 962
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1386
+ 1 string m_Name = ""
+ 1 string interactionName = "launch"
+ 0 PPtr<$TimelineManager> subtitlesTimeline
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3878
+ 0 PPtr<$TimelineAsset> depthReadings
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8829
+ 0 PPtr<$Door> door
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4384
+ 0 PPtr<$StudioEventEmitter> podLaunchSound
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3639
+ 0 PPtr<$StudioEventEmitter> rotorSound
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3591
+ 0 PPtr<$StudioEventEmitter> rotorBubbles
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3641
+ 0 PPtr<$CanvasGroup> playerMapMarkerCG
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3533
+ 0 PPtr<$CompassManager> compassManager
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3802
+ 1 string endingType = "hole"
+ 0 EventReference endOfTheWorld
+  0 GUID Guid
+   0 int Data1 = 1763437842
+   0 int Data2 = 1266667056
+   0 int Data3 = -1879222630
+   0 int Data4 = -1867080848
+ 0 PPtr<$GameObject> thing
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0

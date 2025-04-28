@@ -1,0 +1,58 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 428
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1749
+ 1 string m_Name = ""
+ 1 string interactionName = "connect"
+ 0 vector documents
+  1 Array Array (6 items)
+   0 int size = 6
+   [0]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 881
+   [1]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 884
+   [2]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 1516
+   [3]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 550
+   [4]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 542
+   [5]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 883
+ 0 PPtr<$DownloadManager> downloadManager
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4007
+ 0 PPtr<$TimelineAsset> playAfterDownload
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$GameObject> goalMarker
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 200
+ 0 PPtr<$GameObject> alternativeGoal
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$GoalIcon> goalIcon
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4031
+ 0 int progressIndexRequirement = 8
+ 0 PPtr<$ConditionList> conditionList
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8794
+ 1 string blockerName = "insufficient privilege"
+ 1 UInt8 alreadyConnected = 0
