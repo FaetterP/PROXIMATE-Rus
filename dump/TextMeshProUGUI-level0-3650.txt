@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Err 918 / Image download error\n\nThis is a known bug in SONA v8. We're working hard on the next update!\n\nSONA is still in active development. We appreciate your patience while we work to bring you the best  experience."
+ 1 string m_text = "Err 918 / Ошибка скачивания изображения\n\nЭто известная ошибка в SONA v8. Мы усердно работаем над обновлением!\n\nSONA находится в активно разработке. Мы ценим ваше терпение и хотим предоставить наилучший опыт использования."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 2
