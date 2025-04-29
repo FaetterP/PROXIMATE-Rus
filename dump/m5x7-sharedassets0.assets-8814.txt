@@ -3135,8 +3135,12 @@
   1 Array Array (0 items)
    0 int size = 0
  0 vector m_FallbackFontAssetTable
-  1 Array Array (0 items)
-   0 int size = 0
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$TMP_FontAsset> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8817
  0 FontAssetCreationSettings m_CreationSettings
   1 string sourceFontFileName = ""
   1 string sourceFontFileGUID = "1ffd37040486f489e85e8d513f4359ab"
