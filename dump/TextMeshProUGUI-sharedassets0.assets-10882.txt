@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "but like, it still hurts? so much? i have so many bugs i'm supposed to fix today but i can't focus on anything because i keep thinking about how i'm not good enough for the one person i've dared to love in years. i don't even know what i did wrong"
+ 1 string m_text = "но ведь, всё равно больно? так сильно? у меня сегодня куча багов, которые я должен пофиксить, но я не могу ни на чём сосредоточиться, потому что всё время думаю о том, что я недостаточно хорош для единственного человека, которого я осмелился полюбить за последние годы. я даже не знаю, в чём я облажался"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

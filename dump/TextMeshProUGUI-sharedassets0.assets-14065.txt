@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "------- PRIVATE NOTES ------- \nher name was Valerie Dupont. she was a comic book illustrator who moved to melbourne to live with her partner. she usually worked from home, but on mondays she liked to draw in the royal botanic gardens and would post reels of the flowers and her illustrations under the hashtag #mondayfunday. she loved cooking for her friends, was a campaigner for refugee rights and always left five star reviews on books. "
+ 1 string m_text = "------- ЛИЧНЫЕ ЗАПИСКИ ------- \nеё звали Валери Дюпон. она была иллюстратором комиксов, переехала в мельбурн, чтобы жить с партнёром. обычно она работала из дома, но по понедельникам любила рисовать в королевском ботаническом саду и выкладывала рилсы с цветами и своими иллюстрациями под хэштегом #mondayfunday. она обожала готовить для друзей, боролась за права беженцев и всегда оставляла пятизвёздочные отзывы на книги. "
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

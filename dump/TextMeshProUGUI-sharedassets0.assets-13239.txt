@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i want to go to gigs and hold hands in parks and buy a home and argue in furniture stores and tag each other in cat videos and do all the stupid shit that we were meant to do"
+ 1 string m_text = "я хочу ходить на концерты и держаться за руки в парках купить дом ссориться в мебельных магазинах отмечать друг друга в видео с котами и делать всю ту тупую херню для которой мы были созданы"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

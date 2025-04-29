@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Like I said in the email, a tie will be counted as a Yes."
+ 1 string m_text = "Как я уже писал в письме, ничья будет засчитана как Да."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

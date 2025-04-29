@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Maybe it's because I assigned 4 story points to that femoral nerve ticket she did"
+ 1 string m_text = "Может быть, это потому, что я поставил 4 балла за то, что она проверила бедренный нерв"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

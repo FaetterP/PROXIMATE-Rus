@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Findings:\nScans confirm abnormal neural firing of the laryngeal nerve and broader vagal nerve system during implant activation. Abnormality begins from process thread 435,390 and continues until implant suspension.\n"
+ 1 string m_text = "Заключения:\nСканирование подтверждает аномальную нейронную активность гортанного нерва и обширной системы блуждающего нерва во время активации имплантата. Аномалия начинается с потока процесса 435,390 и продолжается до приостановки имплантата.\n"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "11131105:> what to do if my crush is evil\n11151105:> woman i love is evil help\n11151105:> woman i love supports necromancing dead children AITA reddit\n11231105:> tips for quitting your job\n11241105:> tips for quitting your high security job 800 meters under the antarctic ocean\n11311105:> r/lesdom"
+ 1 string m_text = "11131105:> что делать если моя симпатия зло\n11151105:> женщина которую я люблю зло помогите\n11151105:> женщина которую я люблю поддерживает некромантию над мертвыми детьми AITA reddit\n11231105:> советы по увольнению с работы\n11241105:> советы по увольнению с высокосекретной работы в 800 метрах под антарктическим океаном\n11311105:> r/lesdom"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

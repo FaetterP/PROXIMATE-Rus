@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Dear Ollie,\nThe Attwood psychologist came in again today. The team must have taken acting classes while I wasn't looking, because somehow we all passed eval. We might get that Series B funding yet.\n\nI told her that writing these letters has been helping. But how could it, when my lungs crawl into my throat every time my fingers move to the song of your name? Ollie, Ollie, Ollie. I would drown the world in the blackest waters if it meant I could catch a glimpse of you in the reflection.\n\nI found this fish while on a dive today and figured you'd like it too. I think it looks a bit like your auntie."
+ 1 string m_text = "Дорогой Олли,\nПсихолог из Этвуда снова приходил сегодня. Наверное, команда ходила на курсы актёрского мастерства, пока я отвлекался, потому что каким-то образом мы все прошли оценку. Возможно, мы всё-таки получим то финансирование на раунде B.\n\nЯ сказала ей, что написание этих писем мне помогает. Но как это может быть правдой, если мои лёгкие поднимаются к горлу каждый раз, когда мои пальцы движутся под песню твоего имени? Олли, Олли, Олли. Я бы утопила мир в самых чёрных водах, если бы это позволило мне хоть мельком увидеть твоё отражение.\n\nСегодня на погружении я нашла эту рыбку и подумала, что она тебе тоже понравится. Мне кажется, она немного похожа на твою тётушку."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

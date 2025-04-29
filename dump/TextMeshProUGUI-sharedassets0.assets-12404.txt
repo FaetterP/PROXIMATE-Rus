@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "You made the choice to lobotomize the future for an extra seven digits in your bank account, same as the rest of us."
+ 1 string m_text = "Ты сам выбрал сделать лоботомию будущему ради лишних семи цифр на своем банковском счете, как и все мы."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "I'm sorry to hear that! Your access request is now being processed. Our support team will contact you in 2-3 business days."
+ 1 string m_text = "Сожалею об этом! Ваш запрос на доступ сейчас обрабатывается. Наша служба поддержки свяжется с вами в течение 2–3 рабочих дней."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

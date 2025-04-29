@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "I've started going out deeper on my dives. You used to make fun of me for the thalassophobia, but I think even you would be spooked by some of the things I've seen down here. Yesterday I found this glowing light, like a fire, down in one of the trenches. I didn't have it in me to go any closer, and the exposure on the pod camera was acting up so I didn't get any good photos either. Maybe next time I'll check it out properly and tell you what I find.\n\nYour co-conspirator, always,\nSimon"
+ 1 string m_text = "Я начал заплывать глубже во время своих погружений. Ты раньше смеялся надо мной из-за талассофобии, но я думаю, даже ты бы испугался от некоторых вещей, которые я здесь видел. Вчера я нашёл это светящееся пятно, как огонь, в одном из ущелий. У меня не хватило духа подплыть ближе, и экспозиция на камере капсулы барахлила, так что никаких хороших фото тоже не получилось. Может, в следующий раз я всё как следует проверю и расскажу тебе, что найду.\n\nТвой соучастник, как всегда,\nСимон"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

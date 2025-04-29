@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "is this about the time i used our last pod charge for the week to launch mason's waifu pillow into the factorian deep. i know that was kinda mean"
+ 1 string m_text = "это про тот раз, когда я потратил наш последний заряд капсулы за неделю, чтобы запустить подушку-вайфу Мэйсона в факторианскую бездну. я знаю, это было немного подло"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

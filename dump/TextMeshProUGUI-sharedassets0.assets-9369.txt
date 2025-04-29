@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "if this is the future i'm fighting to see\nthen you can keep it"
+ 1 string m_text = "если это то будущее, за которое я борюсь,\nто ты можешь сохранить его"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

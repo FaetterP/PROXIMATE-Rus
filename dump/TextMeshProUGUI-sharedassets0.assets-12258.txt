@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i think i'm in love with someone who's really hot and funny and smart and just all around such a cool person who i love spending time with and am always thinking about but they're kinda like... maybe not a good person, i think? what should i do?"
+ 1 string m_text = "я думаю, я влюблён в кого-то, кто реально горячий и смешной и умный и вообще такой классный человек, с которым мне нравится проводить время и о котором я постоянно думаю, но он как бы... может, не очень хороший человек, я думаю? что мне делать?"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

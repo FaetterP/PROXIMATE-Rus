@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "The investment world has recently been ablaze with the exciting new results emerging out of electromortology. Neuras itself is especially proud of the publication "Proof of Concept Simulation of Primary Motor Cortex Bypass via  Neurosurgical Implantation of EGP-7 Hardware" (Simon M. et al), which has paved a theoretical pathway for the reanimation of fresh cadavers using neural network chips. \n\nWe believe that these results are too exciting to be confined to the realm of the imaginary - with the right investments, we'll be able to bring these theories to life and propel humanity into a future where no one has to stop working just because they're dead.\n"
+ 1 string m_text = "Мир инвестиций в последнее время пылает от захватывающих новых результатов, появившихся в области электромортологии. Neuras особенно гордится публикацией "Моделирование концепции обхода первичной моторной коры посредством нейрохирургической имплантации оборудования EGP-7" (Симон М. и др.), которая проложила теоретический путь к реанимации свежих трупов с использованием нейросетевых чипов. \n\nМы считаем, что эти результаты слишком захватывающие, чтобы оставаться в сфере воображаемого — при надлежащих инвестициях мы сможем воплотить эти теории в жизнь и направить человечество в будущее, где никому не придётся прекращать работу только потому, что он умер.\n"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "idk, not much. been having these fucked up dreams lately"
+ 1 string m_text = "хз, не особо. в последнее время снятся какие-то ебанутые сны"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

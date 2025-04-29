@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "half the time i feel so shit that i don't even have the energy to brush my teeth, let alone all the stuff that a good girlfriend is supposed to do"
+ 1 string m_text = "в половине случаев я чувствую себя настолько дерьмово, что у меня даже нет сил почистить зубы, не говоря уже о том, что должна делать хорошая девушка"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

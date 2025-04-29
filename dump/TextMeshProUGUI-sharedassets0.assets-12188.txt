@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "681 days until contract ends\nkimchi jaffles on howey place\n\n680 days until contract ends\nwalking down flinders lane on a cold winter morning holding a coffee with both your hands\n\n679 days until contract ends\nfinding some really cool pants at savers\n\n678 days until contract ends\nsunlight\n\n677 days until contract ends\nbeing right on time for the tram"
+ 1 string m_text = "681 дней до окончания контракта\nкимчи-вафли на Хауи-Плейс\n\n680 дней до окончания контракта\nидёшь по Флиндерс-Лейн холодным зимним утром, держа кофе в обеих руках\n\n679 дней до окончания контракта\nнашёл очень классные штаны в Savers\n\n678 дней до окончания контракта\nсолнечный свет\n\n677 дней до окончания контракта\nпришёл на трамвай точно вовремя"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

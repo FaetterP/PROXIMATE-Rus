@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Dear Ollie,\nToday while trialing the new update, one of the cadavers started screaming.\n\nElla thinks it's just a bug in the language model, but some of the team has been pretty rattled anyway. Willow still hasn't left her room, not even for dinner. Sometimes I wonder about that girl.\n\nAttwood has been asking for updates again, and it's  getting harder and harder to stall them. Turns out there's only so many buzzwords and shiny slide decks you can distract an investment firm with before they start wondering where their billions are actually going. Wish we'd thought of that before you gave them such an optimistic timeline!\n"
+ 1 string m_text = "Дорогой Олли,\nСегодня, во время тестирования нового обновления, один из трупов начал кричать.\n\nЭлла думает, что это просто баг в языковой модели, но часть команды всё равно сильно встревожена. Уиллоу всё ещё не выходила из своей комнаты, даже на ужин. Иногда я действительно удивляюсь этой девочке.\n\nЭтвуд снова требует обновлений, и становится всё сложнее тянуть время. Оказывается, количество модных словечек и блестящих презентаций, которыми можно отвлечь инвестиционную фирму, ограничено — рано или поздно они начинают задумываться, куда уходят их миллиарды. Жаль, что мы не подумали об этом раньше, прежде чем ты дал им такой оптимистичный график!\n"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

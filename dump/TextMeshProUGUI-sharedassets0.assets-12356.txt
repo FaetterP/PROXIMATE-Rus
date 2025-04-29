@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i don't get you. you're the only other fucking person on this team who's even remotely close to grasping that what we're doing is wrong, but you don't care. how the fuck can you not care?"
+ 1 string m_text = "я тебя не понимаю. ты единственный, блядь, человек в этой команде, кто хоть как-то понимает, что то, что мы делаем - это неправильно, но тебе похуй. как, блядь, тебе может быть похуй?"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

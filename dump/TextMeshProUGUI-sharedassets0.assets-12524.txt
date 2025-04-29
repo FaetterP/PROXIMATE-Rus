@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "I mean the [REDACTED] refusing to work is why we're so well funded right now. Can't fix the labor shortage if there's no labor shortage. So on the surface I'd say this is bad?"
+ 1 string m_text = "Я имею в виду, что [УДАЛЕНО] отказывается работать, и именно поэтому у нас сейчас столько финансирования. Нельзя устранить нехватку рабочей силы, если её нет. Так что на первый взгляд я бы сказал, что это плохо?"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

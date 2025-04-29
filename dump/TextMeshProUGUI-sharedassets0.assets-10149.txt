@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "I am lovable.\n\nI am deserving of being wanted.\n\nI deserve to be with someone who can communicate issues instead of keeping me in the dark.\n\nI can focus on the beautiful things I have instead of the mediocre things I don't.\n\nI deserve to be with someone who wants me for more than just the sex.\n\nJust because someone doesn't abuse me, doesn't mean that they're the perfect partner. I don't need to let my past experiences lower my standards for the type of love I have today.\n\nI deserve to be with someone who doesn't make me wonder what's wrong with me.\n\nI deserve to be with someone who I don't need to write affirmations about."
+ 1 string m_text = "Я достоин любви.\n\nЯ достоин того, чтобы меня желали.\n\nЯ заслуживаю быть с тем, кто умеет обсуждать проблемы, а не держать меня в неведении.\n\nЯ могу сосредоточиться на прекрасных вещах, которые у меня есть, вместо заурядных, которых у меня нет.\n\nЯ заслуживаю быть с тем, кто хочет меня не только ради секса.\n\nТолько потому, что кто-то не оскорбляет меня, это ещё не значит, что он идеальный партнёр. Мне не нужно позволять прошлому опускать мои стандарты любви, которую я имею сегодня.\n\nЯ заслуживаю быть с тем, кто не заставляет меня задумываться, что со мной не так.\n\nЯ заслуживаю быть с тем, о ком мне не нужно писать аффирмации."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

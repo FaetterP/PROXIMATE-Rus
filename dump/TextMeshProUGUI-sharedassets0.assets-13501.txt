@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "It is potentially worth noting that the hole would also consume the earth in approximately 72 years, though that is a longer term matter that is perhaps best left to people with a different field of expertise."
+ 1 string m_text = "Стоит, возможно, отметить, что дыра также поглотила бы Землю примерно за 72 года, хотя это вопрос более долгосрочный и, вероятно, лучше оставить его людям с другой областью экспертизы."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

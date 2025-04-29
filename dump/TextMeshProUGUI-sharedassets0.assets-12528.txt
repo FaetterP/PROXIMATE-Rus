@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Hi team. I trust you've all read the email I sent this morning. Tomorrow we'll be taking the issue to a vote."
+ 1 string m_text = "Привет, команда. Надеюсь, вы все прочитали письмо, которое я отправил сегодня утром. Завтра мы вынесем этот вопрос на голосование."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

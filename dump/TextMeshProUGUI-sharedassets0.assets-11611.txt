@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i just don't think we're a good match? not a "values fit" as corporate would say"
+ 1 string m_text = "я просто не думаю, что мы хорошо подходим друг другу? не "совпадение по ценностям", как сказали бы в корпорации"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

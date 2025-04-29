@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "As you can see, the hole's diameter has an exponential relationship to time. At this rate of growth, the lab would be consumed in a little over 14 months, which could provide an interesting timebox for our research and may need to be logged in our risk matrix as a medium or high priority item."
+ 1 string m_text = "Как вы можете видеть, диаметр отверстия экспоненциально зависит от времени. При таких темпах роста лаборатория будет задействована чуть более чем через 14 месяцев, что может стать интересным временем для наших исследований, и, возможно, потребуется внести его в нашу матрицу рисков как средне- или высокоприоритетный элемент."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

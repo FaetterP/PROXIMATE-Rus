@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "remember how i said you remind me of my dad because of how emotionally unavailable you are"
+ 1 string m_text = "помнишь я говорил что ты напоминаешь мне моего отца из-за того какой ты эмоционально недоступный"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

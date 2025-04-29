@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i'll just wait until glorious communist victory to be able to hear "i love you" from the person i'm having sex with"
+ 1 string m_text = "я просто подожду до славной победы коммунизма, чтобы услышать "я тебя люблю" от человека, с которым занимаюсь сексом"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "how does that quote go again? true love is possible only in the next world for new people, it's too late for us"
+ 1 string m_text = "как там говорится? истинная любовь возможна только в следующем мире для новых людей для нас уже слишком поздно"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

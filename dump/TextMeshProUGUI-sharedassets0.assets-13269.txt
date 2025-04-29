@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i mean we can start putting lube on the supplies list? it'll only be kinda awkward"
+ 1 string m_text = "я имею в виду, мы можем начать добавлять смазку в список расходных материалов? это будет немного неловко"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

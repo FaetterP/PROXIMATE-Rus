@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "In any case, this is an intriguing distraction from the usual routine of lab work. I will continue to investigate."
+ 1 string m_text = "В любом случае, это захватывающее отвлечение от обычной рутины лабораторной работы. Я продолжу расследование."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

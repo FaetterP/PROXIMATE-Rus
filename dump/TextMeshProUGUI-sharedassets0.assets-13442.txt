@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Simon M: Hey team. I've made a deck for us to get a start on brainstorming our pitch to Attwood. Feel free to dump in whatever you're excited about, we'll clean it up later."
+ 1 string m_text = "Симон М: Привет, команда. Я сделал презентацию, чтобы мы могли начать мозговой штурм по нашему питчу для Attwood. Не стесняйтесь добавлять всё, что вас вдохновляет, мы потом всё подчистим."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

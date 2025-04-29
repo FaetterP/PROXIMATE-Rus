@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Pitch Deck Brainstorming (November 2028)\nLast edit made: 3 years ago"
+ 1 string m_text = "Мозговой штурм Pitch Deck (Ноябрь 2028)\nПоследнее изменение: 3 года назад"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

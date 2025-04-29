@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "if this keeps happening, I'm taking meat off the supply list and you and @Xan can eat normal food like the rest of us."
+ 1 string m_text = "если это будет продолжаться, я уберу мясо из списка поставок, и ты с @Ксан будете есть обычную еду, как и все остальные."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

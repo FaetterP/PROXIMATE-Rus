@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "There'll be new cells in tomorrow's shipment. It's fine."
+ 1 string m_text = "В завтрашней партии будут новые ячейки. Всё в порядке."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

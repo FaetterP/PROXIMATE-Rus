@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "TAKE THE DRILL, MAKE A HOLE\nCUP YOUR HANDS AND DRINK\nTHE SALT WATERS OF YOUR HOLLOW SKULL\nSEARCHING FOR WHAT'S RIGHT BELOW\nwe never even had a chance\n\n\n\nIF YOU HEAR IT, FACE AWAY"
+ 1 string m_text = "ВОЗЬМИ СВЕРЛО, ПРОСВЕРЛИ ОТВЕРСТИЕ\nСЛОЖИ ЛАДОНИ И ПЕЙ\nСОЛЁНУЮ ВОДУ СВОЕГО ПУСТОГО ЧЕРЕПА\nИЩА СТОЛЬ ЖЕ БЛИЗКОЕ, КАК НИЖЕ\nу нас даже не было шанса\n\n\n\nЕСЛИ УСЛЫШИШЬ ЭТО, ОТВЕРНИСЬ"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

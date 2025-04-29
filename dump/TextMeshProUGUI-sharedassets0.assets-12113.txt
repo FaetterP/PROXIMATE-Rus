@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "probs shouldn't have used the last pod charge to launch a dead woman into a spooky hole"
+ 1 string m_text = "вероятно им не следовало использовать последний заряд капсулы чтобы сбросить мертвую женщину в жуткую дыру"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

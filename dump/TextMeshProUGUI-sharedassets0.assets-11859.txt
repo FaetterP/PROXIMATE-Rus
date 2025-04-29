@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "i can handle the rejection, you know? i'm a big girl. it's the uncertainty that's killing me"
+ 1 string m_text = "я могу справиться с отказом, понимаешь? я уже большая девочка. меня убивает неуверенность"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0

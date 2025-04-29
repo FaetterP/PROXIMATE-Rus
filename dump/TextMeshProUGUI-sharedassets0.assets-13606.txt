@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "maybe she can like, see the crazy. like in my eyes or something. maybe it's obvious to everyone except me"
+ 1 string m_text = "может она типа видит безумие. ну в моих глазах или что-то такое. может это очевидно для всех кроме меня."
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0
