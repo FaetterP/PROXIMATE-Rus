@@ -44,7 +44,7 @@
   0 float y = 153
  0 Vector2f m_SizeDelta
   0 float x = 614
-  0 float y = 832
+  0 float y = 982
  0 Vector2f m_Pivot
   0 float x = 0,5
   0 float y = 1
