@@ -325,7 +325,7 @@
       0 float m_HorizontalBearingY = 135
       0 float m_HorizontalAdvance = 96
      0 GlyphRect m_GlyphRect
-      0 int m_X = 582
+      0 int m_X = 529
       0 int m_Y = 752
       0 int m_Width = 96
       0 int m_Height = 135
@@ -886,7 +886,7 @@
       0 float m_HorizontalBearingY = 135
       0 float m_HorizontalAdvance = 96
      0 GlyphRect m_GlyphRect
-      0 int m_X = 582
+      0 int m_X = 529
       0 int m_Y = 752
       0 int m_Width = 96
       0 int m_Height = 135
