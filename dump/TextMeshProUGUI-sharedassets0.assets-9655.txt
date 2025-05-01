@@ -27,7 +27,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Дата            Диаметр (м)\n21/03           0.7395m\n22/03           0.7717m\n23/03           0.8292m\n24/03           0.9132m\n25/03           1.0249m\n26/03           1.1650m\n27/03           1.3343m\n28/03           1.5334m\n\n"
+ 1 string m_text = "Дата            Диаметр (м)\n21/03           0.7395\n22/03           0.7717\n23/03           0.8292\n24/03           0.9132\n25/03           1.0249\n26/03           1.1650\n27/03           1.3343\n28/03           1.5334\n\n"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 0
