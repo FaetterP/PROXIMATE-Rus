@@ -1,0 +1,142 @@
+0 RectTransform Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1543
+ 0 Quaternionf m_LocalRotation
+  0 float x = -0
+  0 float y = -0
+  0 float z = -0
+  0 float w = 1
+ 0 Vector3f m_LocalPosition
+  0 float x = 0
+  0 float y = 0
+  0 float z = 0
+ 1 Vector3f m_LocalScale
+  0 float x = 1
+  0 float y = 1
+  0 float z = 1
+ 0 vector m_Children
+  1 Array Array (26 items)
+   0 int size = 26
+   [0]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7417
+   [1]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8324
+   [2]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7525
+   [3]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7246
+   [4]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7532
+   [5]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7111
+   [6]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6299
+   [7]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6717
+   [8]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7859
+   [9]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5961
+   [10]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5750
+   [11]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7079
+   [12]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7749
+   [13]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7909
+   [14]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6786
+   [15]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7543
+   [16]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6599
+   [17]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7083
+   [18]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7988
+   [19]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7926
+   [20]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7800
+   [21]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5853
+   [22]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6014
+   [23]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6814
+   [24]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8103
+   [25]
+    0 PPtr<Transform> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8318
+ 0 PPtr<Transform> m_Father
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7406
+ 0 Vector2f m_AnchorMin
+  0 float x = 0,5
+  0 float y = 0,5
+ 0 Vector2f m_AnchorMax
+  0 float x = 0,5
+  0 float y = 0,5
+ 0 Vector2f m_AnchoredPosition
+  0 float x = 0
+  0 float y = 153
+ 0 Vector2f m_SizeDelta
+  0 float x = 614
+  0 float y = 1973
+ 0 Vector2f m_Pivot
+  0 float x = 0,5
+  0 float y = 1
