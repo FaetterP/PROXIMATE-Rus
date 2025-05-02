@@ -41,8 +41,8 @@
   0 float m_StrikethroughThickness = 13,59668
   0 float m_TabWidth = 85
  0 Glyph m_GlyphTable
-  1 Array Array (152 items)
-   0 int size = 152
+  1 Array Array (157 items)
+   0 int size = 157
    [0]
     0 Glyph data
      0 unsigned int m_Index = 3
@@ -2627,9 +2627,94 @@
      0 float m_Scale = 1
      0 int m_AtlasIndex = 0
      0 int m_ClassDefinitionType = 0
+   [152]
+    0 Glyph data
+     0 unsigned int m_Index = 155
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 85
+      0 float m_Height = 119
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 119
+      0 float m_HorizontalAdvance = 105
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 364
+      0 int m_Y = 165
+      0 int m_Width = 85
+      0 int m_Height = 119
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+   [153]
+    0 Glyph data
+     0 unsigned int m_Index = 156
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 85
+      0 float m_Height = 119
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 119
+      0 float m_HorizontalAdvance = 105
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 453
+      0 int m_Y = 165
+      0 int m_Width = 85
+      0 int m_Height = 119
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+   [154]
+    0 Glyph data
+     0 unsigned int m_Index = 157
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 51
+      0 float m_Height = 119
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 119
+      0 float m_HorizontalAdvance = 71
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 542
+      0 int m_Y = 165
+      0 int m_Width = 51
+      0 int m_Height = 119
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+   [155]
+    0 Glyph data
+     0 unsigned int m_Index = 158
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 85
+      0 float m_Height = 119
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 119
+      0 float m_HorizontalAdvance = 105
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 597
+      0 int m_Y = 165
+      0 int m_Width = 85
+      0 int m_Height = 119
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
+   [156]
+    0 Glyph data
+     0 unsigned int m_Index = 159
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 17
+      0 float m_Height = 119
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 119
+      0 float m_HorizontalAdvance = 37
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 686
+      0 int m_Y = 165
+      0 int m_Width = 17
+      0 int m_Height = 119
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+     0 int m_ClassDefinitionType = 0
  0 TMP_Character m_CharacterTable
-  1 Array Array (152 items)
-   0 int size = 152
+  1 Array Array (157 items)
+   0 int size = 157
    [0]
     0 TMP_Character data
      1 UInt8 m_ElementType = 1
@@ -3192,7 +3277,7 @@
     0 TMP_Character data
      1 UInt8 m_ElementType = 1
      0 unsigned int m_Unicode = 61
-     0 unsigned int m_GlyphIndex = 98
+     0 unsigned int m_GlyphIndex = 96
      0 float m_Scale = 1
    [94]
     0 TMP_Character data
@@ -3541,6 +3626,36 @@
      1 UInt8 m_ElementType = 1
      0 unsigned int m_Unicode = 93
      0 unsigned int m_GlyphIndex = 154
+     0 float m_Scale = 1
+   [152]
+    0 TMP_Character data
+     1 UInt8 m_ElementType = 1
+     0 unsigned int m_Unicode = 95
+     0 unsigned int m_GlyphIndex = 155
+     0 float m_Scale = 1
+   [153]
+    0 TMP_Character data
+     1 UInt8 m_ElementType = 1
+     0 unsigned int m_Unicode = 94
+     0 unsigned int m_GlyphIndex = 156
+     0 float m_Scale = 1
+   [154]
+    0 TMP_Character data
+     1 UInt8 m_ElementType = 1
+     0 unsigned int m_Unicode = 176
+     0 unsigned int m_GlyphIndex = 157
+     0 float m_Scale = 1
+   [155]
+    0 TMP_Character data
+     1 UInt8 m_ElementType = 1
+     0 unsigned int m_Unicode = 36
+     0 unsigned int m_GlyphIndex = 158
+     0 float m_Scale = 1
+   [156]
+    0 TMP_Character data
+     1 UInt8 m_ElementType = 1
+     0 unsigned int m_Unicode = 183
+     0 unsigned int m_GlyphIndex = 159
      0 float m_Scale = 1
  0 vector m_AtlasTextures
   1 Array Array (1 items)

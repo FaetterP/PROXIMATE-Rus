@@ -88,7 +88,7 @@
  1 UInt8 m_overrideHtmlColors = 0
  0 Color32 m_faceColor
   0 unsigned int rgba = 4294967295
- 0 float m_fontSize = 16
+ 0 float m_fontSize = 32
  0 float m_fontSizeBase = 16
  0 int m_fontWeight = 400
  1 UInt8 m_enableAutoSizing = 0

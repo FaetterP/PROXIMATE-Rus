@@ -7,4 +7,4 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 505
  1 string m_Name = ""
- 1 string info = "Координаты [00'06"S, 04'11"E, -217м] (???)"
+ 1 string info = "Координаты [00'06"Ю, 04'11"В, -217м] (???)"
