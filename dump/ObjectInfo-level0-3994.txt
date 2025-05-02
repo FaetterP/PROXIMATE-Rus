@@ -7,4 +7,4 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 505
  1 string m_Name = ""
- 1 string info = "Cadaver 212"
+ 1 string info = "Труп 212"

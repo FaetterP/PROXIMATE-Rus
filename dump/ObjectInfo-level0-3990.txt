@@ -7,4 +7,4 @@
   0 int m_FileID = 1
   0 SInt64 m_PathID = 505
  1 string m_Name = ""
- 1 string info = "Food waste 6114% higher than previous month"
+ 1 string info = "Расходы еды на 6114% больше, чем в прошлом месяце"
