@@ -15,9 +15,12 @@ https://boosty.to/faetterp
 ## Установка
 
 1) Скачать архив по ссылке.  
+https://github.com/FaetterP/PROXIMATE-Rus/releases/download/03-05-2025/PROXIMATE-Rus.zip  
+Альтернативная ссылка:
 https://drive.google.com/drive/folders/1462e0xp_W8UIE3urXoaV1qZW_Fiu_FIj?usp=drive_link
 
-2) Для этого в библиотеке нужна нажать ПКМ по игре и выбрать `Управление → Просмотреть локальные файлы`.  
+2) Далее нужно открыть папку с игрой.  
+Для этого в библиотеке нужна нажать ПКМ по игре и выбрать `Управление → Просмотреть локальные файлы`.  
 ![image](https://github.com/user-attachments/assets/63671cb2-bbea-46ae-bac2-9f46e86a79d1)
 
-3) Переместить с заменой файлы из архива в папку с игрой.
+3) Переместить папку `PROXIMATE_Data` из архива в папку с игрой с заменой всех файлов.
